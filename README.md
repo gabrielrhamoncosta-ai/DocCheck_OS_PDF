@@ -63,11 +63,3 @@ Este script foi desenvolvido para otimizar o fluxo de trabalho administrativo, e
 ## 📝 Licença
 
 Este projeto está sob a licença MIT. Sinta-se à vontade para contribuir\!
-
-```
-
-### Dica Extra para o GitHub:
-Na área de **"About"** (lado direito da página principal do repositório), coloque uma frase curta como:
-
-> *"Automação Python para validar assinaturas (vetoriais e digitais), extrair dados de OS e renomear PDFs em lote."*
-```
